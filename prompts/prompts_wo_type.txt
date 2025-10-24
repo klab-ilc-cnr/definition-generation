@@ -1,0 +1,3531 @@
+*** Prompt 1 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbagliatore":
+EXAMPLE: Max è un abbagliatore
+RELATIONS: - "abbagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 2 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbagliatrice":
+EXAMPLE: Max è un abbagliatore
+RELATIONS: - "abbagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 3 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbandonata":
+EXAMPLE: L'abbandonato è stato affidato alla pubblica assistenza
+RELATIONS: - "abbandonata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 4 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbandonato":
+EXAMPLE: L'abbandonato è stato affidato alla pubblica assistenza
+RELATIONS: - "abbandonato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 5 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbreviatura":
+EXAMPLE: FIAT è l'abbreviatura di
+RELATIONS: - "abbreviatura" è iponimo di "segno" nel senso di "tutto cio' che serve per capire e trasmettere un'informazione"
+
+*** Prompt 6 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abduttore":
+EXAMPLE: gli adduttori della coscia
+RELATIONS: - "abduttore" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 7 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "accenditore":
+EXAMPLE: accenditore a strappo per mina; accenditore per razzi
+RELATIONS: - "accenditore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 8 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "accentatura":
+EXAMPLE: errori di accentatura
+RELATIONS: - "accentatura" è iponimo di "segno" nel senso di "tutto cio' che serve per capire e trasmettere un'informazione"
+
+*** Prompt 9 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "addomesticatore":
+EXAMPLE: L'addomesticatore dei leoni
+RELATIONS: - "addomesticatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 10 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "addomesticatrice":
+EXAMPLE: L'addomesticatore dei leoni
+RELATIONS: - "addomesticatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 11 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "adduttore":
+EXAMPLE: gli abduttori della coscia
+RELATIONS: - "adduttore" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 12 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "adunamento":
+EXAMPLE: Un adunamento di ex-allievi
+RELATIONS: - "adunamento" è iponimo di "gruppo" nel senso di "insieme di persone o cose vicine, riunite, connesse tra loro"
+
+*** Prompt 13 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affilatura":
+EXAMPLE: l'affilatura del coltello
+RELATIONS: - "affilatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 14 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affiochimento":
+EXAMPLE: affiochimento di voce
+RELATIONS: - "affiochimento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 15 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affondatura":
+EXAMPLE: affondatura di una fossa
+RELATIONS: - "affondatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 16 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ageminatura":
+EXAMPLE: L'ageminatura di un anello d'oro
+RELATIONS: - "ageminatura" è iponimo di "oggetto" nel senso di "cosa concreta spesso creata dall'uomo"
+
+*** Prompt 17 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "aggiustatura":
+EXAMPLE: Fare un'aggiustatura
+RELATIONS: - "aggiustatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 18 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "aguzzatura":
+EXAMPLE: L'aguzzatura del bastone
+RELATIONS: - "aguzzatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 19 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "allunamento":
+EXAMPLE: l'allunamento del ponte
+RELATIONS: - "allunamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 20 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ammaestratore":
+EXAMPLE: ammaestratore di orsi
+RELATIONS: - "ammaestratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 21 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ammaestratrice":
+EXAMPLE: ammaestratore di orsi
+RELATIONS: - "ammaestratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 22 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "apatico":
+EXAMPLE: Gigi è apatico
+RELATIONS: - "apatico" è un quasi sinonimo di "indolente" nel senso di "pigro e apatico"
+
+*** Prompt 23 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "arrendevole":
+EXAMPLE: Il carattere di Nicola è troppo arrendevole
+RELATIONS: - "arrendevole" è un quasi sinonimo di "passivo" nel senso di "che subisce le azioni altrui, arrendevole, remissivo"
+
+*** Prompt 24 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ascritta":
+EXAMPLE: Gli asctitti a una società, in un registro
+RELATIONS: - "ascritta" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 25 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ascritto":
+EXAMPLE: Gli asctitti a una società, in un registro
+RELATIONS: - "ascritto" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 26 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assaggiatore":
+EXAMPLE: l'assaggiatore di oli
+RELATIONS: - "assaggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 27 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assertrice":
+EXAMPLE: essere un assertore dell'evoluzionismo
+RELATIONS: - "assertrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 28 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assiepamento":
+EXAMPLE: un assiepamento di curiosi intralcia la circolazione
+RELATIONS: - "assiepamento" è iponimo di "gruppo" nel senso di "insieme di persone o cose vicine, riunite, connesse tra loro"
+
+*** Prompt 29 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assuntrice":
+EXAMPLE: Assuntore di stazione, assuntore ferroviario
+RELATIONS: - "assuntrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 30 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avanzatore":
+EXAMPLE: Avanzatore di produzione
+RELATIONS: - "avanzatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 31 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avanzatrice":
+EXAMPLE: Avanzatore di produzione
+RELATIONS: - "avanzatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 32 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avvisatore":
+EXAMPLE: avvisatore di grisou, d'incendio
+RELATIONS: - "avvisatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 33 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "bollore":
+EXAMPLE: il bollore dell'estate
+RELATIONS: - "bollore" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 34 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "brillantatura":
+EXAMPLE: la brillantatura di un diamante
+RELATIONS: - "brillantatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 35 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "brillantatura":
+EXAMPLE: la brillantatura dei confetti
+RELATIONS: - "brillantatura" è iponimo di "materiale" nel senso di "Tutto ciò che serve per compiere o realizzare un certo lavoro"
+
+*** Prompt 36 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "calmieramento":
+EXAMPLE: il calmieramento dei prezzi
+RELATIONS: - "calmieramento" è iponimo di "convenzione" nel senso di "cio' che risulta da una regola o consuetudine generalmente accettata"
+
+*** Prompt 37 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "coglitore":
+EXAMPLE: coglitore di frutta
+RELATIONS: - "coglitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 38 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "coglitrice":
+EXAMPLE: coglitore di frutta
+RELATIONS: - "coglitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 39 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combattitore":
+EXAMPLE: combattitore della corruzione
+RELATIONS: - "combattitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 40 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combattitrice":
+EXAMPLE: combattitore della corruzione
+RELATIONS: - "combattitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 41 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combinatore":
+EXAMPLE: combinatore di marcia
+RELATIONS: - "combinatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 42 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combinatore":
+EXAMPLE: Combinatore di affari, matrimoni
+RELATIONS: - "combinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 43 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "compatto":
+EXAMPLE: Questo yogurt è compatto
+RELATIONS: - "compatto" è un quasi sinonimo di "omogeneo" nel senso di "che e' composto da piu' parti affini tra di loro, aventi stesse qualita' e proprieta'"
+
+*** Prompt 44 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "concepita":
+EXAMPLE: I diritti della concepita
+RELATIONS: - "concepita" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 45 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "concepito":
+EXAMPLE: I diritti del concepito
+RELATIONS: - "concepito" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 46 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "conciatrice":
+EXAMPLE: conciatore di pelli
+RELATIONS: - "conciatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 47 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confezionatore":
+EXAMPLE: un confezionatore di film di cassetta
+RELATIONS: - "confezionatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 48 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confinata":
+EXAMPLE: È' una confinata politica
+RELATIONS: - "confinata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 49 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confinato":
+EXAMPLE: È' un confinato politico
+RELATIONS: - "confinato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 50 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confluente":
+EXAMPLE: Confluente di fiumi
+RELATIONS: - "confluente" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 51 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "consumo":
+EXAMPLE: Scendono i consumi interni
+RELATIONS: - "consumo" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 52 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "consumo":
+EXAMPLE: Scendono i consumi interni
+RELATIONS: - "consumo" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 53 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crepatura":
+EXAMPLE: una crepatura delle finestre
+RELATIONS: - "crepatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 54 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crepolatura":
+EXAMPLE: le crepolature del muro
+RELATIONS: - "crepolatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 55 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crespatura":
+EXAMPLE: un abito pieno di crespature
+RELATIONS: - "crespatura" è iponimo di "manufatto" nel senso di "oggetto fatto a mano o prodotto industrialmente"
+
+*** Prompt 56 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "debellatore":
+EXAMPLE: debellatore dei vizi
+RELATIONS: - "debellatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 57 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "debellatrice":
+EXAMPLE: debellatore dei vizi
+RELATIONS: - "debellatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 58 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "decoroso":
+EXAMPLE: La tua abitazione non è decorosa
+RELATIONS: - "decoroso" è un quasi sinonimo di "dignitoso" nel senso di "di aspetto, decente, decoroso";
+- "decoroso" è un quasi sinonimo di "dignitoso" nel senso di "che rivela dignità, decoro"
+
+*** Prompt 59 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "demoltiplicatore":
+EXAMPLE: Demoltiplicatore di frequenza
+RELATIONS: - "demoltiplicatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 60 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dentellatura":
+EXAMPLE: la dentellatura della foglia
+RELATIONS: - "dentellatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 61 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "deprivazione":
+EXAMPLE: nanismo da deprivazione
+RELATIONS: - "deprivazione" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 62 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "derubata":
+EXAMPLE: La derubata tentò di inseguire il ladro
+RELATIONS: - "derubata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 63 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "derubato":
+EXAMPLE: Il derubato tentò di inseguire il ladro
+RELATIONS: - "derubato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 64 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dimostratore":
+EXAMPLE: dimostratore di detersivi, di elettrodomestici.
+RELATIONS: - "dimostratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 65 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dimostratrice":
+EXAMPLE: dimostratore di detersivi, di elettrodomestici.
+RELATIONS: - "dimostratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 66 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disciplinatore":
+EXAMPLE: Disciplinatore di costumi
+RELATIONS: - "disciplinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 67 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disciplinatrice":
+EXAMPLE: Disciplinatore di costumi
+RELATIONS: - "disciplinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 68 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diseredata":
+EXAMPLE: I diseredati sono troppi nel mondo
+RELATIONS: - "diseredata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 69 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diseredato":
+EXAMPLE: I diseredati sono troppi nel mondo
+RELATIONS: - "diseredato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 70 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disgregatore":
+EXAMPLE: i disgregatori della famiglia
+RELATIONS: - "disgregatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 71 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disgregatrice":
+EXAMPLE: i disgregatori della famiglia
+RELATIONS: - "disgregatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 72 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disonesto":
+EXAMPLE: Il tuo modo di fare è disonesto
+RELATIONS: - "disonesto" è un quasi sinonimo di "scorretto" nel senso di "non conforme alle norme del vivere civile"
+
+*** Prompt 73 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissanguamento":
+EXAMPLE: morire per dissanguamento
+RELATIONS: - "dissanguamento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 74 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disseminatore":
+EXAMPLE: disseminatore di zizzania
+RELATIONS: - "disseminatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 75 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disseminatrice":
+EXAMPLE: disseminatore di zizzania
+RELATIONS: - "disseminatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 76 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissestata":
+EXAMPLE: La moltitudine dei dissestati
+RELATIONS: - "dissestata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 77 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissestato":
+EXAMPLE: La moltitudine dei dissestati
+RELATIONS: - "dissestato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 78 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissetante":
+EXAMPLE: La limonata è un'ottima dissetante
+RELATIONS: - "dissetante" è iponimo di "bevanda" nel senso di "liquido che si beve"
+
+*** Prompt 79 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diviso":
+EXAMPLE: La torta è divisa in tre
+RELATIONS: - "diviso" è un quasi sinonimo di "separato" nel senso di "distinto, diviso"
+
+*** Prompt 80 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "drappeggiamento":
+EXAMPLE: drappeggiamento
+RELATIONS: - "drappeggiamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 81 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "economizzatore":
+EXAMPLE: l'economizzatore della lavatrice
+RELATIONS: - "economizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 82 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "entratura":
+EXAMPLE: Entrata, ingresso
+RELATIONS: - "entratura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 83 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "entratura":
+EXAMPLE: Godere di molte entrature
+RELATIONS: - "entratura" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 84 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "eruttamento":
+EXAMPLE: l'eruttamento di un vulcano
+RELATIONS: - "eruttamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 85 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esagerata":
+EXAMPLE: Non fare l'esagerata!
+RELATIONS: - "esagerata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 86 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esaltata":
+EXAMPLE: Ida è proprio una esaltata
+RELATIONS: - "esaltata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 87 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esaltato":
+EXAMPLE: È una banda di esaltati
+RELATIONS: - "esaltato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 88 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esonerato":
+EXAMPLE: gli esonerati (dal servizio) dovranno presentare gli opportuni certificati
+RELATIONS: - "esonerato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 89 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "estimatrice":
+EXAMPLE: estimatore della pittura cubista
+RELATIONS: - "estimatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 90 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falcatura":
+EXAMPLE: la falcatura della luna
+RELATIONS: - "falcatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 91 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falcatura":
+EXAMPLE: la falcatura della luna
+RELATIONS: - "falcatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 92 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falsatore":
+EXAMPLE: falsatore del vero
+RELATIONS: - "falsatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 93 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falsatrice":
+EXAMPLE: falsatore del vero
+RELATIONS: - "falsatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 94 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fermatura":
+EXAMPLE: Allacciatura
+RELATIONS: - "fermatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 95 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fessurazione":
+EXAMPLE: la fessurazione delle rocce, del cemento armato, del formaggio
+RELATIONS: - "fessurazione" è iponimo di "area" nel senso di "superficie circoscritta di terreno"
+
+*** Prompt 96 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "filettatura":
+EXAMPLE: Libro con filettatura in oro
+RELATIONS: - "filettatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 97 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "finitura":
+EXAMPLE: all'abito mancano solo le finiture
+RELATIONS: - "finitura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 98 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "formatore":
+EXAMPLE: Formatore d'ingegni
+RELATIONS: - "formatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 99 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "formatrice":
+EXAMPLE: Formatore d'ingegni
+RELATIONS: - "formatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 100 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fulminazione":
+EXAMPLE: morte per fulminazione
+RELATIONS: - "fulminazione" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 101 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fulminazione":
+EXAMPLE: morte per fulminazione
+RELATIONS: - "fulminazione" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 102 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fustigatore":
+EXAMPLE: un fustigatore dei costumi corrotti
+RELATIONS: - "fustigatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 103 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fustigatrice":
+EXAMPLE: un fustigatore dei costumi corrotti
+RELATIONS: - "fustigatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 104 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "gommatura":
+EXAMPLE: gommatura nuova, vecchia
+RELATIONS: - "gommatura" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 105 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "gremito":
+EXAMPLE: Lo stadio era gremito di gente
+RELATIONS: - "gremito" è un quasi sinonimo di "pieno" nel senso di "gremito, stipato"
+
+*** Prompt 106 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "guardatura":
+EXAMPLE: Ha una guardatura losca
+RELATIONS: - "guardatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 107 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ibernamento":
+EXAMPLE: ibernamento
+RELATIONS: - "ibernamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 108 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imbasamento":
+EXAMPLE: La torre è costruita sull'imbasamento di un edificio precedente
+RELATIONS: - "imbasamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 109 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imbracciatura":
+EXAMPLE: l'imbracciatura dello scudo
+RELATIONS: - "imbracciatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 110 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "immaginatore":
+EXAMPLE: Un fecondo immaginatore di favole
+RELATIONS: - "immaginatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 111 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "immaginatrice":
+EXAMPLE: Un fecondo immaginatore di favole
+RELATIONS: - "immaginatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 112 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impagliatore":
+EXAMPLE: impagliatore di fiaschi, di seggiole
+RELATIONS: - "impagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 113 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impagliatrice":
+EXAMPLE: impagliatore di fiaschi, di seggiole
+RELATIONS: - "impagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 114 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impiantamento":
+EXAMPLE: impiantamento
+RELATIONS: - "impiantamento" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 115 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imploratore":
+EXAMPLE: un imploratore di grazie
+RELATIONS: - "imploratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 116 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imploratrice":
+EXAMPLE: un imploratore di grazie
+RELATIONS: - "imploratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 117 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incamiciatura":
+EXAMPLE: la porta ha un'incamiciatura di vernice
+RELATIONS: - "incamiciatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 118 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incartamento":
+EXAMPLE: gli incartamenti per il rilascio del passaporto
+RELATIONS: - "incartamento" è iponimo di "oggetto" nel senso di "cosa concreta spesso creata dall'uomo"
+
+*** Prompt 119 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incassatura":
+EXAMPLE: hanno fatto nel muro un'incassatura per la libreria
+RELATIONS: - "incassatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 120 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "inchiodatura":
+EXAMPLE: l'inchiodatura mi sembra insufficiente
+RELATIONS: - "inchiodatura" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 121 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incitatore":
+EXAMPLE: l'incitatore della sommossa è stato arrestato
+RELATIONS: - "incitatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 122 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incitatrice":
+EXAMPLE: l'incitatore della sommossa è stato arrestato
+RELATIONS: - "incitatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 123 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incorniciatura":
+EXAMPLE: incorniciatura elegante
+RELATIONS: - "incorniciatura" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 124 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incrostatura":
+EXAMPLE: Un cofanetto con incrostature d'argento
+RELATIONS: - "incrostatura" è iponimo di "manufatto" nel senso di "oggetto fatto a mano o prodotto industrialmente"
+
+*** Prompt 125 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "infossatura":
+EXAMPLE: L'infossatura di una poltrona
+RELATIONS: - "infossatura" è iperonimo di "fossetta" nel senso di "infossatura nelle guance o nel mento";
+- "infossatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 126 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "infreddatura":
+EXAMPLE: prendersi un'infreddatura
+RELATIONS: - "infreddatura" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 127 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "intesa":
+EXAMPLE: L'intesa tra i due paesi ha comportato una distensione della situazione politica nella regione
+RELATIONS: - "intesa" è derivato da "intendere" nel senso di "accordarsi";
+- "intesa" deriva dal verbo "intendere" nel senso di "accordarsi";
+- "intesa" è iponimo di "atto" nel senso di "azione"
+
+*** Prompt 128 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "invidioso":
+EXAMPLE: Lia è invidiosa di Gea
+RELATIONS: - "invidioso" è un quasi sinonimo di "geloso" nel senso di "invidioso"
+
+*** Prompt 129 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ipersostentatore":
+EXAMPLE: ipersostentatore ad aletta posteriore
+RELATIONS: - "ipersostentatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 130 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "isolatore":
+EXAMPLE: isolatore a campana
+RELATIONS: - "isolatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 131 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "lambiccatore":
+EXAMPLE: Lambiccatore di etimi
+RELATIONS: - "lambiccatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 132 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "lambiccatrice":
+EXAMPLE: Lambiccatore di etimi
+RELATIONS: - "lambiccatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 133 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "localizzatore":
+EXAMPLE: localizzatore d'atterraggio
+RELATIONS: - "localizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 134 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "macchinatrice":
+EXAMPLE: un macchinatore di burle feroci.
+RELATIONS: - "macchinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 135 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mallevatore":
+EXAMPLE: essere il mallevatore della sua onestà
+RELATIONS: - "mallevatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 136 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mallevatrice":
+EXAMPLE: essere il mallevatore della sua onestà
+RELATIONS: - "mallevatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 137 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mancatore":
+EXAMPLE: Mancatore di fede
+RELATIONS: - "mancatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 138 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mancatrice":
+EXAMPLE: Mancatore di fede
+RELATIONS: - "mancatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 139 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "manipolatore":
+EXAMPLE: un manipolatore di vini, imbrogli
+RELATIONS: - "manipolatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 140 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mantenitore":
+EXAMPLE: mantenitore della promessa
+RELATIONS: - "mantenitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 141 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mantenitrice":
+EXAMPLE: mantenitore della promessa
+RELATIONS: - "mantenitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 142 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mappatura":
+EXAMPLE: Mappatura catastale
+RELATIONS: - "mappatura" è iponimo di "testo" nel senso di "L'insieme delle parole che, nella loro forma, dicitura, interpunzione, sono contenute in uno scritto, un documento, uno stampato"
+
+*** Prompt 143 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "merlatura":
+EXAMPLE: La merlatura del castello
+RELATIONS: - "merlatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 144 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mondatura":
+EXAMPLE: la mondatura della frutta
+RELATIONS: - "mondatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 145 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mutatura":
+EXAMPLE: una completa mutatura di vestiario
+RELATIONS: - "mutatura" è iponimo di "indumento" nel senso di "qualsiasi capo di vestiario utilizzato per coprire il corpo o una parte di esso"
+
+*** Prompt 146 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "novatore":
+EXAMPLE: un geniale novatore
+RELATIONS: - "novatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 147 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "novatrice":
+EXAMPLE: un geniale novatore
+RELATIONS: - "novatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 148 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "occupare":
+EXAMPLE: occupare  un paese
+RELATIONS: - "occupare" è un quasi sinonimo di "invadere" nel senso di "entrare in un luogo con la forza per occuparlo";
+- "occupare" è iponimo di "agire" nel senso di "fare, operare"
+
+*** Prompt 149 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ordinatore":
+EXAMPLE: l'ordinatore dello Stato
+RELATIONS: - "ordinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 150 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "oscuratore":
+EXAMPLE: l'oscuratore del buon nome di qlcu.
+RELATIONS: - "oscuratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 151 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "patrocinatore":
+EXAMPLE: patrocinatore delle arti
+RELATIONS: - "patrocinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 152 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "patrocinatrice":
+EXAMPLE: patrocinatore delle arti
+RELATIONS: - "patrocinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 153 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perforatore":
+EXAMPLE: perforatore di schede
+RELATIONS: - "perforatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 154 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perpetuatore":
+EXAMPLE: perpetuatore di tradizioni popolari
+RELATIONS: - "perpetuatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 155 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perpetuatrice":
+EXAMPLE: perpetuatore di tradizioni popolari
+RELATIONS: - "perpetuatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 156 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perturbatore":
+EXAMPLE: perturbatore della quiete pubblic
+RELATIONS: - "perturbatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 157 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perturbatrice":
+EXAMPLE: perturbatore della quiete pubblic
+RELATIONS: - "perturbatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 158 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pervertitore":
+EXAMPLE: pervertitore dei giovani
+RELATIONS: - "pervertitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 159 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pervertitrice":
+EXAMPLE: pervertitore dei giovani
+RELATIONS: - "pervertitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 160 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "piazzamento":
+EXAMPLE: ottenere un ottimo piazzamento
+RELATIONS: - "piazzamento" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 161 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pieghettatura":
+EXAMPLE: stirare la pieghettatura della gonna
+RELATIONS: - "pieghettatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 162 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "piombatura":
+EXAMPLE: la piombatura della lenza; la piombatura di un dente
+RELATIONS: - "piombatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 163 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "polverizzatore":
+EXAMPLE: polverizzatore per motori Diesel
+RELATIONS: - "polverizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 164 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "porgitore":
+EXAMPLE: Essere un abile porgitore
+RELATIONS: - "porgitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 165 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "porgitrice":
+EXAMPLE: Essere un abile porgitore
+RELATIONS: - "porgitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 166 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "procacciatore":
+EXAMPLE: procacciatore di affari
+RELATIONS: - "procacciatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 167 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "procacciatrice":
+EXAMPLE: procacciatore di affari
+RELATIONS: - "procacciatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 168 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "profanatore":
+EXAMPLE: un profanatore di tombe
+RELATIONS: - "profanatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 169 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "profanatrice":
+EXAMPLE: un profanatore di tombe
+RELATIONS: - "profanatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 170 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "propinatore":
+EXAMPLE: Propinatore di veleni
+RELATIONS: - "propinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 171 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "propinatrice":
+EXAMPLE: Propinatore di veleni
+RELATIONS: - "propinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 172 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "proteggitore":
+EXAMPLE: Proteggitore dei bambini
+RELATIONS: - "proteggitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 173 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "proteggitrice":
+EXAMPLE: Proteggitore dei bambini
+RELATIONS: - "proteggitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 174 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "provocare":
+EXAMPLE: provocare una strage
+RELATIONS: - "provocare" è iponimo di "fare" nel senso di "mettere in condizione di; permettere; spingere a compiere un'azione";
+- "provocare" è un quasi sinonimo di "causare" nel senso di "essere la causa di qlco; produrre, provocare"
+
+*** Prompt 175 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "radioso":
+EXAMPLE: Max è radioso
+RELATIONS: - "radioso" è un quasi sinonimo di "raggiante" nel senso di "lieto, radioso, gioso"
+
+*** Prompt 176 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "raffermatore":
+EXAMPLE: Raffermatore di pace
+RELATIONS: - "raffermatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 177 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "raffermatrice":
+EXAMPLE: Raffermatore di pace
+RELATIONS: - "raffermatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 178 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rallegratore":
+EXAMPLE: Rallegratore della compagnia
+RELATIONS: - "rallegratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 179 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rallegratrice":
+EXAMPLE: Rallegratore della compagnia
+RELATIONS: - "rallegratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 180 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rattoppatura":
+EXAMPLE: Questa rattoppatura è di colore differente dal tessuto strappato
+RELATIONS: - "rattoppatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 181 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ravvolgimento":
+EXAMPLE: I ravvolgimenti di un fiume
+RELATIONS: - "ravvolgimento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 182 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "razzatura":
+EXAMPLE: La razzatura della pelle
+RELATIONS: - "razzatura" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 183 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rientramento":
+EXAMPLE: C'è un rientramento nel muro
+RELATIONS: - "rientramento" è iponimo di "area" nel senso di "superficie circoscritta di terreno"
+
+*** Prompt 184 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimatore":
+EXAMPLE: i rimatori dello stilnovismo
+RELATIONS: - "rimatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 185 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimatrice":
+EXAMPLE: i rimatori dello stilnovismo
+RELATIONS: - "rimatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 186 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimboccamento":
+EXAMPLE: Il rimboccamento di un sacco
+RELATIONS: - "rimboccamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 187 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimboccatura":
+EXAMPLE: La rimboccatura del tessuto prima di fare l'orlo
+RELATIONS: - "rimboccatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 188 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimodernatura":
+EXAMPLE: Pagare la rimodernatura della stanza
+RELATIONS: - "rimodernatura" è iponimo di "quantità" nel senso di "gran numero, copia, abbondanza"
+
+*** Prompt 189 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimpagliatore":
+EXAMPLE: rimpagliatore di seggiole
+RELATIONS: - "rimpagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 190 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimpagliatrice":
+EXAMPLE: rimpagliatore di seggiole
+RELATIONS: - "rimpagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 191 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rinfrescatura":
+EXAMPLE: Con l'autunno è venuta una bella rinfrescatura
+RELATIONS: - "rinfrescatura" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 192 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rinomato":
+EXAMPLE: Questo locale è rinomato
+RELATIONS: - "rinomato" è un quasi sinonimo di "notorio" nel senso di "di persona, noto per una sua particolare caratteristica"
+
+*** Prompt 193 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ripartimento":
+EXAMPLE: Il ripartimento forestale
+RELATIONS: - "ripartimento" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 194 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "risolutore":
+EXAMPLE: risolutore di problemi, di difficoltà
+RELATIONS: - "risolutore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 195 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rivelatore":
+EXAMPLE: i rivelatori delle tue confidenze
+RELATIONS: - "rivelatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 196 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sanguinamento":
+EXAMPLE: sanguinamento di una ferita
+RELATIONS: - "sanguinamento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 197 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "scambiatore":
+EXAMPLE: scambiatore di calore
+RELATIONS: - "scambiatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 198 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sceglitore":
+EXAMPLE: sceglitore di frutta e verdura
+RELATIONS: - "sceglitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 199 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sceglitrice":
+EXAMPLE: sceglitore di frutta e verdura
+RELATIONS: - "sceglitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 200 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "schernitore":
+EXAMPLE: schernitore della patria
+RELATIONS: - "schernitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 201 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "schernitrice":
+EXAMPLE: schernitore della patria
+RELATIONS: - "schernitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 202 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "scoscendimento":
+EXAMPLE: Sentieri irti di scoscendimenti
+RELATIONS: - "scoscendimento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 203 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "segnalamento":
+EXAMPLE: segnalamenti luminosi, sonori
+RELATIONS: - "segnalamento" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 204 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "serpeggiamento":
+EXAMPLE: il serpeggiamento di una strada, di un fiume
+RELATIONS: - "serpeggiamento" è iponimo di "figura" nel senso di "ente geometrico formato da un insieme di punti, linee e superfici"
+
+*** Prompt 205 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "serramento":
+EXAMPLE: Serramenti interni
+RELATIONS: - "serramento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 206 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sfrangiatura":
+EXAMPLE: La sfrangiatura di di una coperta
+RELATIONS: - "sfrangiatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 207 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgozzatore":
+EXAMPLE: Sgozzatore di capretti
+RELATIONS: - "sgozzatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 208 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgozzatrice":
+EXAMPLE: Sgozzatore di capretti
+RELATIONS: - "sgozzatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 209 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgualcitura":
+EXAMPLE: Una sottana piena di sgualciture
+RELATIONS: - "sgualcitura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 210 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sinistrata":
+EXAMPLE: I sinistrati di guerra
+RELATIONS: - "sinistrata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 211 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sinistrato":
+EXAMPLE: I sinistrati di guerra
+RELATIONS: - "sinistrato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 212 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "squadro":
+EXAMPLE: Squadro agrimensorio
+RELATIONS: - "squadro" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 213 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "stuccatore":
+EXAMPLE: stuccatore di mobili
+RELATIONS: - "stuccatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 214 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "stuccatrice":
+EXAMPLE: stuccatore di mobili
+RELATIONS: - "stuccatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 215 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "surrogazione":
+EXAMPLE: surrogazione dell'assicuratore; pagamento con surrogazione
+RELATIONS: - "surrogazione" è iponimo di "convenzione" nel senso di "cio' che risulta da una regola o consuetudine generalmente accettata"
+
+*** Prompt 216 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "svanita":
+EXAMPLE: Quella donna mi sembra un po' svanita
+RELATIONS: - "svanita" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 217 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "svanito":
+EXAMPLE: Quell'uomo mi sembra un po' svanito
+RELATIONS: - "svanito" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 218 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sventata":
+EXAMPLE: Maria si comporta da sventata
+RELATIONS: - "sventata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 219 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sventato":
+EXAMPLE: Max si comporta da sventato
+RELATIONS: - "sventato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 220 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tenitore":
+EXAMPLE: tenitore di un locale notturno.
+RELATIONS: - "tenitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 221 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tenitrice":
+EXAMPLE: tenitore di un locale notturno.
+RELATIONS: - "tenitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 222 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "terrazzamento":
+EXAMPLE: terrazzamento fluviale, glaciale, marino
+RELATIONS: - "terrazzamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 223 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tracciatore":
+EXAMPLE: Tracciatore di rotta/ Tracciatore di grafici, di diagrammi
+RELATIONS: - "tracciatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 224 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "trinciatrice":
+EXAMPLE: trinciatrice per barbabietole
+RELATIONS: - "trinciatrice" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 225 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vagheggiatore":
+EXAMPLE: Max è il vagheggiatore di Miriam
+RELATIONS: - "vagheggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 226 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vagheggiatrice":
+EXAMPLE: Max è il vagheggiatore di Miriam
+RELATIONS: - "vagheggiatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 227 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "variatore":
+EXAMPLE: variatore di tensione
+RELATIONS: - "variatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 228 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volata":
+EXAMPLE: Volata di uccelli
+RELATIONS: - "volata" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 229 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volteggiatore":
+EXAMPLE: un elegante volteggiatore
+RELATIONS: - "volteggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 230 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volteggiatrice":
+EXAMPLE: un elegante volteggiatore
+RELATIONS: - "volteggiatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 231 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vomitatore":
+EXAMPLE: Vomitatore di bestemmie
+RELATIONS: - "vomitatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 232 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vomitatrice":
+EXAMPLE: Vomitatore di bestemmie
+RELATIONS: - "vomitatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 233 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zelatore":
+EXAMPLE: uno zelatore del pubblico bene
+RELATIONS: - "zelatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 234 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zelatrice":
+EXAMPLE: uno zelatore del pubblico bene
+RELATIONS: - "zelatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 235 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- EXAMPLE: è l'esempio di uso della parola con quel senso
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zigrinatura":
+EXAMPLE: quella moneta presenta una zigrinatura
+RELATIONS: - "zigrinatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+

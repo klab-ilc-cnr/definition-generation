@@ -1,0 +1,24 @@
+PREFIX onto: <http://www.ontotext.com/>
+PREFIX lexinfo: <http://www.lexinfo.net/ontology/3.0/lexinfo#>
+PREFIX vartrans: <http://www.w3.org/ns/lemon/vartrans#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX complit: <http://klab/lexicon/vocabulary/compl-it#>
+
+SELECT DISTINCT ?relation ?target ?lemma ?def ?example ?template ?concept
+#FROM onto:explicit
+WHERE {
+        <#USEM#> ?relation ?target
+    FILTER ((STRSTARTS(str(?relation), STR(lexinfo:)) && ?relation != lexinfo:senseExample ) || STRSTARTS(str(?relation), STR(complit:)))
+    OPTIONAL { ?target ontolex:isSenseOf [ ontolex:canonicalForm [ ontolex:writtenRep ?lemma ] ] }
+    OPTIONAL { ?target skos:definition ?def }
+    OPTIONAL { ?target lexinfo:senseExample ?example }
+    OPTIONAL { ?target ontolex:reference ?concept 
+        SERVICE <repository:Simple_Ontology> {
+            OPTIONAL { ?concept rdfs:label ?template }
+        } 
+    }
+   FILTER ((BOUND(?example) && BOUND(?def) && STR(?def) != STR(?example)) || !BOUND(?example))
+}
+ORDER BY ?target

@@ -1,0 +1,55 @@
+GENERATION 
+### V2 All Feats
+python generate_defs.py     -p data/lexical_entries_nodef_rel_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_S"  -o output/generated_def_nodef_rel_v2.json
+python generate_defs.py -l  -p data/lexical_entries_nodef_rel_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/gemma-3-12b-it-GGUF:Q8_0"  -o output/generated_def_nodef_rel_v2.json
+python generate_defs.py -l  -p data/lexical_entries_nodef_rel_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/microsoft/phi-4-GGUF:Q6_K"  -o output/generated_def_nodef_rel_v2.json
+
+### V2 Relation Excluded
+python generate_defs.py    -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_S" -o output/generated_def_nodef_rel_relExcluded_v2.json -x relations
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/gemma-3-12b-it-GGUF:Q8_0" -o output/generated_def_nodef_rel_relExcluded_v2.json -x relations
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/microsoft/phi-4-GGUF:Q6_K" -o output/generated_def_nodef_rel_relExcluded_v2.json -x relations
+
+### V2 Example Excluded
+python generate_defs.py    -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_S" -o output/generated_def_nodef_rel_exampleExcluded_v2.json -x examples ;
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/gemma-3-12b-it-GGUF:Q8_0" -o output/generated_def_nodef_rel_exampleExcluded_v2.json -x examples ;
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/microsoft/phi-4-GGUF:Q6_K" -o output/generated_def_nodef_rel_exampleExcluded_v2.json -x examples ;
+
+### V2 Templates Excluded
+python generate_defs.py    -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_S" -o output/generated_def_nodef_rel_templatesExcluded_v2.json -x templates ;
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/unsloth/gemma-3-12b-it-GGUF:Q8_0" -o output/generated_def_nodef_rel_templatesExcluded_v2.json -x templates ;
+python generate_defs.py -l -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl --lev1 data/sparql_queries/senses_nodef.rq --lev2 data/sparql_queries/relations.rq -m "hf.co/microsoft/phi-4-GGUF:Q6_K" -o output/generated_def_nodef_rel_templatesExcluded_v2.json -x templates ;
+
+
+JUDGMENT
+## V2 All Feats
+python judgement.py -p data/lexical_entries_nodef_rel_v2.pkl -r ChatGroq  -m "meta-llama/llama-4-maverick-17b-128e-instruct" -o output/lexical_entries_nodef_rel_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_v2.pkl -r ChatGroq  -m "llama-3.3-70b-versatile" -o output/lexical_entries_nodef_rel_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_v2.pkl -r ChatNebius  -m "Qwen/Qwen2.5-72B-Instruct" -o output/lexical_entries_nodef_rel_v2_withscores.json
+
+## V2 Relation Excluded
+python judgement.py -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl -r ChatGroq  -m "meta-llama/llama-4-maverick-17b-128e-instruct" -o output/lexical_entries_nodef_rel_relExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl -r ChatGroq  -m "llama-3.3-70b-versatile" -o output/lexical_entries_nodef_rel_relExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl -r ChatNebius  -m "Qwen/Qwen2.5-72B-Instruct" -o output/lexical_entries_nodef_rel_relExcluded_v2_withscores.json
+
+## V2 Example Excluded
+python judgement.py -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl -r ChatGroq  -m "meta-llama/llama-4-maverick-17b-128e-instruct" -o output/lexical_entries_nodef_rel_exampleExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl -r ChatGroq  -m "llama-3.3-70b-versatile" -o output/lexical_entries_nodef_rel_exampleExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl -r ChatNebius  -m "Qwen/Qwen2.5-72B-Instruct" -o output/lexical_entries_nodef_rel_exampleExcluded_v2_withscores.json
+
+## V2 Example Excluded
+python judgement.py -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl -r ChatGroq  -m "meta-llama/llama-4-maverick-17b-128e-instruct" -o output/lexical_entries_nodef_rel_templatesExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl -r ChatGroq  -m "llama-3.3-70b-versatile" -o output/lexical_entries_nodef_rel_templatesExcluded_v2_withscores.json
+python judgement.py -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl -r ChatNebius  -m "Qwen/Qwen2.5-72B-Instruct" -o output/lexical_entries_nodef_rel_templatesExcluded_v2_withscores.json
+
+
+### STATISTICS V2 ALL
+python judgement.py -s -p data/lexical_entries_nodef_rel_v2.pkl -o statistics.txt
+
+### STATISTICS V2 Relation Excluded
+python judgement.py -s -p data/lexical_entries_nodef_rel_relExcluded_v2.pkl -o statistics.txt
+
+### STATISTICS V2 Example Excluded
+python judgement.py -s -p data/lexical_entries_nodef_rel_exampleExcluded_v2.pkl -o statistics.txt
+
+### STATISTICS V2 Templates Excluded
+python judgement.py -s -p data/lexical_entries_nodef_rel_templatesExcluded_v2.pkl -o statistics.txt

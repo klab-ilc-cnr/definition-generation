@@ -1,0 +1,3531 @@
+*** Prompt 1 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbagliatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "abbagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 2 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbagliatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "abbagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 3 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbandonata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "abbandonata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 4 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbandonato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "abbandonato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 5 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abbreviatura":
+CONCEPT: Segno
+RELATIONS: - "abbreviatura" è iponimo di "segno" nel senso di "tutto cio' che serve per capire e trasmettere un'informazione"
+
+*** Prompt 6 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "abduttore":
+CONCEPT: Parte (corpo)
+RELATIONS: - "abduttore" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 7 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "accenditore":
+CONCEPT: Strumento
+RELATIONS: - "accenditore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 8 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "accentatura":
+CONCEPT: Segno
+RELATIONS: - "accentatura" è iponimo di "segno" nel senso di "tutto cio' che serve per capire e trasmettere un'informazione"
+
+*** Prompt 9 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "addomesticatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "addomesticatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 10 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "addomesticatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "addomesticatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 11 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "adduttore":
+CONCEPT: Parte (corpo)
+RELATIONS: - "adduttore" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 12 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "adunamento":
+CONCEPT: gruppo umano
+RELATIONS: - "adunamento" è iponimo di "gruppo" nel senso di "insieme di persone o cose vicine, riunite, connesse tra loro"
+
+*** Prompt 13 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affilatura":
+CONCEPT: Parte
+RELATIONS: - "affilatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 14 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affiochimento":
+CONCEPT: Malattia
+RELATIONS: - "affiochimento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 15 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "affondatura":
+CONCEPT: Apertura
+RELATIONS: - "affondatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 16 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ageminatura":
+CONCEPT: Opera d'arte
+RELATIONS: - "ageminatura" è iponimo di "oggetto" nel senso di "cosa concreta spesso creata dall'uomo"
+
+*** Prompt 17 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "aggiustatura":
+CONCEPT: Parte
+RELATIONS: - "aggiustatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 18 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "aguzzatura":
+CONCEPT: Parte
+RELATIONS: - "aguzzatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 19 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "allunamento":
+CONCEPT: Parte
+RELATIONS: - "allunamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 20 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ammaestratore":
+CONCEPT: Professione
+RELATIONS: - "ammaestratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 21 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ammaestratrice":
+CONCEPT: Professione
+RELATIONS: - "ammaestratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 22 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "apatico":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "apatico" è un quasi sinonimo di "indolente" nel senso di "pigro e apatico"
+
+*** Prompt 23 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "arrendevole":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "arrendevole" è un quasi sinonimo di "passivo" nel senso di "che subisce le azioni altrui, arrendevole, remissivo"
+
+*** Prompt 24 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ascritta":
+CONCEPT: Paziente (evento)
+RELATIONS: - "ascritta" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 25 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ascritto":
+CONCEPT: Paziente (evento)
+RELATIONS: - "ascritto" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 26 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assaggiatore":
+CONCEPT: Professione
+RELATIONS: - "assaggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 27 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assertrice":
+CONCEPT: Umano
+RELATIONS: - "assertrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 28 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assiepamento":
+CONCEPT: gruppo umano
+RELATIONS: - "assiepamento" è iponimo di "gruppo" nel senso di "insieme di persone o cose vicine, riunite, connesse tra loro"
+
+*** Prompt 29 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "assuntrice":
+CONCEPT: Professione
+RELATIONS: - "assuntrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 30 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avanzatore":
+CONCEPT: Professione
+RELATIONS: - "avanzatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 31 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avanzatrice":
+CONCEPT: Professione
+RELATIONS: - "avanzatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 32 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "avvisatore":
+CONCEPT: Strumento
+RELATIONS: - "avvisatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 33 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "bollore":
+CONCEPT: Fenomeno
+RELATIONS: - "bollore" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 34 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "brillantatura":
+CONCEPT: Parte
+RELATIONS: - "brillantatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 35 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "brillantatura":
+CONCEPT: Materiale
+RELATIONS: - "brillantatura" è iponimo di "materiale" nel senso di "Tutto ciò che serve per compiere o realizzare un certo lavoro"
+
+*** Prompt 36 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "calmieramento":
+CONCEPT: Convenzione
+RELATIONS: - "calmieramento" è iponimo di "convenzione" nel senso di "cio' che risulta da una regola o consuetudine generalmente accettata"
+
+*** Prompt 37 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "coglitore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "coglitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 38 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "coglitrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "coglitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 39 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combattitore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "combattitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 40 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combattitrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "combattitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 41 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combinatore":
+CONCEPT: Strumento
+RELATIONS: - "combinatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 42 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "combinatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "combinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 43 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "compatto":
+CONCEPT: Proprietà (fisica)
+RELATIONS: - "compatto" è un quasi sinonimo di "omogeneo" nel senso di "che e' composto da piu' parti affini tra di loro, aventi stesse qualita' e proprieta'"
+
+*** Prompt 44 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "concepita":
+CONCEPT: Paziente (evento)
+RELATIONS: - "concepita" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 45 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "concepito":
+CONCEPT: Paziente (evento)
+RELATIONS: - "concepito" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 46 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "conciatrice":
+CONCEPT: Professione
+RELATIONS: - "conciatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 47 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confezionatore":
+CONCEPT: Professione
+RELATIONS: - "confezionatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 48 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confinata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "confinata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 49 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confinato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "confinato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 50 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "confluente":
+CONCEPT: Luogo
+RELATIONS: - "confluente" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 51 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "consumo":
+CONCEPT: Gruppo
+RELATIONS: - "consumo" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 52 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "consumo":
+CONCEPT: Atto (relazionale)
+RELATIONS: - "consumo" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 53 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crepatura":
+CONCEPT: Apertura
+RELATIONS: - "crepatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 54 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crepolatura":
+CONCEPT: Parte
+RELATIONS: - "crepolatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 55 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "crespatura":
+CONCEPT: Artefatto (materiale)
+RELATIONS: - "crespatura" è iponimo di "manufatto" nel senso di "oggetto fatto a mano o prodotto industrialmente"
+
+*** Prompt 56 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "debellatore":
+CONCEPT: Umano
+RELATIONS: - "debellatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 57 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "debellatrice":
+CONCEPT: Umano
+RELATIONS: - "debellatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 58 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "decoroso":
+CONCEPT: Proprietà (fisica)
+RELATIONS: - "decoroso" è un quasi sinonimo di "dignitoso" nel senso di "di aspetto, decente, decoroso";
+- "decoroso" è un quasi sinonimo di "dignitoso" nel senso di "che rivela dignità, decoro"
+
+*** Prompt 59 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "demoltiplicatore":
+CONCEPT: Strumento
+RELATIONS: - "demoltiplicatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 60 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dentellatura":
+CONCEPT: Parte
+RELATIONS: - "dentellatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 61 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "deprivazione":
+CONCEPT: Malattia
+RELATIONS: - "deprivazione" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 62 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "derubata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "derubata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 63 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "derubato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "derubato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 64 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dimostratore":
+CONCEPT: Professione
+RELATIONS: - "dimostratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 65 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dimostratrice":
+CONCEPT: Professione
+RELATIONS: - "dimostratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 66 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disciplinatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "disciplinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 67 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disciplinatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "disciplinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 68 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diseredata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "diseredata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 69 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diseredato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "diseredato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 70 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disgregatore":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "disgregatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 71 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disgregatrice":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "disgregatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 72 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disonesto":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "disonesto" è un quasi sinonimo di "scorretto" nel senso di "non conforme alle norme del vivere civile"
+
+*** Prompt 73 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissanguamento":
+CONCEPT: Malattia
+RELATIONS: - "dissanguamento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 74 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disseminatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "disseminatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 75 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "disseminatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "disseminatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 76 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissestata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "dissestata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 77 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissestato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "dissestato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 78 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "dissetante":
+CONCEPT: Bevanda
+RELATIONS: - "dissetante" è iponimo di "bevanda" nel senso di "liquido che si beve"
+
+*** Prompt 79 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "diviso":
+CONCEPT: Relazionale
+RELATIONS: - "diviso" è un quasi sinonimo di "separato" nel senso di "distinto, diviso"
+
+*** Prompt 80 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "drappeggiamento":
+CONCEPT: Parte
+RELATIONS: - "drappeggiamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 81 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "economizzatore":
+CONCEPT: Strumento
+RELATIONS: - "economizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 82 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "entratura":
+CONCEPT: Parte
+RELATIONS: - "entratura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 83 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "entratura":
+CONCEPT: Umano
+RELATIONS: - "entratura" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 84 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "eruttamento":
+CONCEPT: Fenomeno
+RELATIONS: - "eruttamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 85 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esagerata":
+CONCEPT: Umano
+RELATIONS: - "esagerata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 86 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esaltata":
+CONCEPT: Umano
+RELATIONS: - "esaltata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 87 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esaltato":
+CONCEPT: Umano
+RELATIONS: - "esaltato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 88 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "esonerato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "esonerato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 89 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "estimatrice":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "estimatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 90 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falcatura":
+CONCEPT: Proprietà
+RELATIONS: - "falcatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 91 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falcatura":
+CONCEPT: Causa (cambiamento di stato)
+RELATIONS: - "falcatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 92 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falsatore":
+CONCEPT: Umano
+RELATIONS: - "falsatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 93 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "falsatrice":
+CONCEPT: Umano
+RELATIONS: - "falsatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 94 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fermatura":
+CONCEPT: Parte
+RELATIONS: - "fermatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 95 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fessurazione":
+CONCEPT: Area
+RELATIONS: - "fessurazione" è iponimo di "area" nel senso di "superficie circoscritta di terreno"
+
+*** Prompt 96 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "filettatura":
+CONCEPT: Parte
+RELATIONS: - "filettatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 97 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "finitura":
+CONCEPT: Parte
+RELATIONS: - "finitura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 98 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "formatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "formatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 99 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "formatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "formatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 100 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fulminazione":
+CONCEPT: Fenomeno
+RELATIONS: - "fulminazione" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 101 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fulminazione":
+CONCEPT: Atto (relazionale)
+RELATIONS: - "fulminazione" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 102 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fustigatore":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "fustigatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 103 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "fustigatrice":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "fustigatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 104 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "gommatura":
+CONCEPT: Gruppo
+RELATIONS: - "gommatura" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 105 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "gremito":
+CONCEPT: Proprietà (fisica)
+RELATIONS: - "gremito" è un quasi sinonimo di "pieno" nel senso di "gremito, stipato"
+
+*** Prompt 106 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "guardatura":
+CONCEPT: Proprietà
+RELATIONS: - "guardatura" è iponimo di "proprietà" nel senso di "qualita' distintiva di qualcosa"
+
+*** Prompt 107 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ibernamento":
+CONCEPT: Fenomeno
+RELATIONS: - "ibernamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 108 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imbasamento":
+CONCEPT: Parte
+RELATIONS: - "imbasamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 109 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imbracciatura":
+CONCEPT: Parte
+RELATIONS: - "imbracciatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 110 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "immaginatore":
+CONCEPT: Umano
+RELATIONS: - "immaginatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 111 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "immaginatrice":
+CONCEPT: Umano
+RELATIONS: - "immaginatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 112 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impagliatore":
+CONCEPT: Professione
+RELATIONS: - "impagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 113 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impagliatrice":
+CONCEPT: Professione
+RELATIONS: - "impagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 114 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "impiantamento":
+CONCEPT: Gruppo
+RELATIONS: - "impiantamento" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 115 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imploratore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "imploratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 116 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "imploratrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "imploratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 117 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incamiciatura":
+CONCEPT: Parte
+RELATIONS: - "incamiciatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 118 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incartamento":
+CONCEPT: Artefatto (semiotico)
+RELATIONS: - "incartamento" è iponimo di "oggetto" nel senso di "cosa concreta spesso creata dall'uomo"
+
+*** Prompt 119 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incassatura":
+CONCEPT: Apertura
+RELATIONS: - "incassatura" è iponimo di "apertura" nel senso di "fenditura che consente il passaggio"
+
+*** Prompt 120 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "inchiodatura":
+CONCEPT: Gruppo
+RELATIONS: - "inchiodatura" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 121 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incitatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "incitatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 122 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incitatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "incitatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 123 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incorniciatura":
+CONCEPT: Strumento
+RELATIONS: - "incorniciatura" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 124 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "incrostatura":
+CONCEPT: Artefatto (materiale)
+RELATIONS: - "incrostatura" è iponimo di "manufatto" nel senso di "oggetto fatto a mano o prodotto industrialmente"
+
+*** Prompt 125 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "infossatura":
+CONCEPT: Parte
+RELATIONS: - "infossatura" è iperonimo di "fossetta" nel senso di "infossatura nelle guance o nel mento";
+- "infossatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 126 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "infreddatura":
+CONCEPT: Malattia
+RELATIONS: - "infreddatura" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 127 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "intesa":
+CONCEPT: Motivazione (atto)
+RELATIONS: - "intesa" è derivato da "intendere" nel senso di "accordarsi";
+- "intesa" deriva dal verbo "intendere" nel senso di "accordarsi";
+- "intesa" è iponimo di "atto" nel senso di "azione"
+
+*** Prompt 128 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "invidioso":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "invidioso" è un quasi sinonimo di "geloso" nel senso di "invidioso"
+
+*** Prompt 129 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ipersostentatore":
+CONCEPT: Strumento
+RELATIONS: - "ipersostentatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 130 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "isolatore":
+CONCEPT: Strumento
+RELATIONS: - "isolatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 131 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "lambiccatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "lambiccatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 132 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "lambiccatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "lambiccatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 133 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "localizzatore":
+CONCEPT: Strumento
+RELATIONS: - "localizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 134 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "macchinatrice":
+CONCEPT: Umano
+RELATIONS: - "macchinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 135 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mallevatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "mallevatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 136 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mallevatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "mallevatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 137 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mancatore":
+CONCEPT: Umano
+RELATIONS: - "mancatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 138 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mancatrice":
+CONCEPT: Umano
+RELATIONS: - "mancatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 139 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "manipolatore":
+CONCEPT: Umano
+RELATIONS: - "manipolatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 140 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mantenitore":
+CONCEPT: Umano
+RELATIONS: - "mantenitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 141 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mantenitrice":
+CONCEPT: Umano
+RELATIONS: - "mantenitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 142 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mappatura":
+CONCEPT: Informazione
+RELATIONS: - "mappatura" è iponimo di "testo" nel senso di "L'insieme delle parole che, nella loro forma, dicitura, interpunzione, sono contenute in uno scritto, un documento, uno stampato"
+
+*** Prompt 143 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "merlatura":
+CONCEPT: Parte
+RELATIONS: - "merlatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 144 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mondatura":
+CONCEPT: Parte
+RELATIONS: - "mondatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 145 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "mutatura":
+CONCEPT: Abbigliamento
+RELATIONS: - "mutatura" è iponimo di "indumento" nel senso di "qualsiasi capo di vestiario utilizzato per coprire il corpo o una parte di esso"
+
+*** Prompt 146 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "novatore":
+CONCEPT: Umano
+RELATIONS: - "novatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 147 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "novatrice":
+CONCEPT: Umano
+RELATIONS: - "novatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 148 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "occupare":
+CONCEPT: Motivazione (atto)
+RELATIONS: - "occupare" è un quasi sinonimo di "invadere" nel senso di "entrare in un luogo con la forza per occuparlo";
+- "occupare" è iponimo di "agire" nel senso di "fare, operare"
+
+*** Prompt 149 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ordinatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "ordinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 150 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "oscuratore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "oscuratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 151 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "patrocinatore":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "patrocinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 152 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "patrocinatrice":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "patrocinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 153 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perforatore":
+CONCEPT: Strumento
+RELATIONS: - "perforatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 154 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perpetuatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "perpetuatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 155 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perpetuatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "perpetuatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 156 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perturbatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "perturbatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 157 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "perturbatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "perturbatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 158 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pervertitore":
+CONCEPT: Umano
+RELATIONS: - "pervertitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 159 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pervertitrice":
+CONCEPT: Umano
+RELATIONS: - "pervertitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 160 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "piazzamento":
+CONCEPT: Luogo
+RELATIONS: - "piazzamento" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 161 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "pieghettatura":
+CONCEPT: Parte
+RELATIONS: - "pieghettatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 162 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "piombatura":
+CONCEPT: Parte
+RELATIONS: - "piombatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 163 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "polverizzatore":
+CONCEPT: Strumento
+RELATIONS: - "polverizzatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 164 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "porgitore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "porgitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 165 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "porgitrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "porgitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 166 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "procacciatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "procacciatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 167 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "procacciatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "procacciatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 168 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "profanatore":
+CONCEPT: Umano
+RELATIONS: - "profanatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 169 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "profanatrice":
+CONCEPT: Umano
+RELATIONS: - "profanatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 170 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "propinatore":
+CONCEPT: Umano
+RELATIONS: - "propinatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 171 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "propinatrice":
+CONCEPT: Umano
+RELATIONS: - "propinatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 172 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "proteggitore":
+CONCEPT: Umano
+RELATIONS: - "proteggitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 173 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "proteggitrice":
+CONCEPT: Umano
+RELATIONS: - "proteggitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 174 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "provocare":
+CONCEPT: Causa
+RELATIONS: - "provocare" è iponimo di "fare" nel senso di "mettere in condizione di; permettere; spingere a compiere un'azione";
+- "provocare" è un quasi sinonimo di "causare" nel senso di "essere la causa di qlco; produrre, provocare"
+
+*** Prompt 175 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "radioso":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "radioso" è un quasi sinonimo di "raggiante" nel senso di "lieto, radioso, gioso"
+
+*** Prompt 176 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "raffermatore":
+CONCEPT: Umano
+RELATIONS: - "raffermatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 177 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "raffermatrice":
+CONCEPT: Umano
+RELATIONS: - "raffermatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 178 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rallegratore":
+CONCEPT: Umano
+RELATIONS: - "rallegratore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 179 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rallegratrice":
+CONCEPT: Umano
+RELATIONS: - "rallegratrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 180 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rattoppatura":
+CONCEPT: Parte
+RELATIONS: - "rattoppatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 181 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ravvolgimento":
+CONCEPT: Parte
+RELATIONS: - "ravvolgimento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 182 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "razzatura":
+CONCEPT: Malattia
+RELATIONS: - "razzatura" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 183 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rientramento":
+CONCEPT: Area
+RELATIONS: - "rientramento" è iponimo di "area" nel senso di "superficie circoscritta di terreno"
+
+*** Prompt 184 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimatore":
+CONCEPT: Professione
+RELATIONS: - "rimatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 185 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimatrice":
+CONCEPT: Professione
+RELATIONS: - "rimatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 186 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimboccamento":
+CONCEPT: Parte
+RELATIONS: - "rimboccamento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 187 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimboccatura":
+CONCEPT: Parte
+RELATIONS: - "rimboccatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 188 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimodernatura":
+CONCEPT: Quantità
+RELATIONS: - "rimodernatura" è iponimo di "quantità" nel senso di "gran numero, copia, abbondanza"
+
+*** Prompt 189 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimpagliatore":
+CONCEPT: Professione
+RELATIONS: - "rimpagliatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 190 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rimpagliatrice":
+CONCEPT: Professione
+RELATIONS: - "rimpagliatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 191 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rinfrescatura":
+CONCEPT: Fenomeno
+RELATIONS: - "rinfrescatura" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 192 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rinomato":
+CONCEPT: Proprietà (psicologica)
+RELATIONS: - "rinomato" è un quasi sinonimo di "notorio" nel senso di "di persona, noto per una sua particolare caratteristica"
+
+*** Prompt 193 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "ripartimento":
+CONCEPT: Luogo (geopolitico)
+RELATIONS: - "ripartimento" è iponimo di "luogo" nel senso di "porzione dello spazio, parte della superficie terrestre"
+
+*** Prompt 194 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "risolutore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "risolutore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 195 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "rivelatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "rivelatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 196 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sanguinamento":
+CONCEPT: Malattia
+RELATIONS: - "sanguinamento" è iponimo di "malattia" nel senso di "alterazione negli organi e nelle funzioni"
+
+*** Prompt 197 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "scambiatore":
+CONCEPT: Strumento
+RELATIONS: - "scambiatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 198 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sceglitore":
+CONCEPT: Professione
+RELATIONS: - "sceglitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 199 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sceglitrice":
+CONCEPT: Professione
+RELATIONS: - "sceglitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 200 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "schernitore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "schernitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 201 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "schernitrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "schernitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 202 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "scoscendimento":
+CONCEPT: Parte
+RELATIONS: - "scoscendimento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 203 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "segnalamento":
+CONCEPT: Gruppo
+RELATIONS: - "segnalamento" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 204 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "serpeggiamento":
+CONCEPT: Forma
+RELATIONS: - "serpeggiamento" è iponimo di "figura" nel senso di "ente geometrico formato da un insieme di punti, linee e superfici"
+
+*** Prompt 205 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "serramento":
+CONCEPT: Parte
+RELATIONS: - "serramento" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 206 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sfrangiatura":
+CONCEPT: Parte
+RELATIONS: - "sfrangiatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 207 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgozzatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "sgozzatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 208 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgozzatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "sgozzatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 209 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sgualcitura":
+CONCEPT: Parte
+RELATIONS: - "sgualcitura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
+*** Prompt 210 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sinistrata":
+CONCEPT: Paziente (evento)
+RELATIONS: - "sinistrata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 211 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sinistrato":
+CONCEPT: Paziente (evento)
+RELATIONS: - "sinistrato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 212 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "squadro":
+CONCEPT: Strumento
+RELATIONS: - "squadro" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 213 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "stuccatore":
+CONCEPT: Professione
+RELATIONS: - "stuccatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 214 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "stuccatrice":
+CONCEPT: Professione
+RELATIONS: - "stuccatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 215 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "surrogazione":
+CONCEPT: Convenzione
+RELATIONS: - "surrogazione" è iponimo di "convenzione" nel senso di "cio' che risulta da una regola o consuetudine generalmente accettata"
+
+*** Prompt 216 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "svanita":
+CONCEPT: Umano
+RELATIONS: - "svanita" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 217 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "svanito":
+CONCEPT: Umano
+RELATIONS: - "svanito" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 218 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sventata":
+CONCEPT: Umano
+RELATIONS: - "sventata" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 219 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "sventato":
+CONCEPT: Umano
+RELATIONS: - "sventato" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 220 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tenitore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "tenitore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 221 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tenitrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "tenitrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 222 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "terrazzamento":
+CONCEPT: Fenomeno
+RELATIONS: - "terrazzamento" è iponimo di "fenomeno" nel senso di "tutto cio' che puo' essere osservato e studiato attraverso una conoscenza diretta"
+
+*** Prompt 223 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "tracciatore":
+CONCEPT: Strumento
+RELATIONS: - "tracciatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 224 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "trinciatrice":
+CONCEPT: Strumento
+RELATIONS: - "trinciatrice" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 225 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vagheggiatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "vagheggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 226 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vagheggiatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "vagheggiatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 227 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "variatore":
+CONCEPT: Strumento
+RELATIONS: - "variatore" è iponimo di "strumento" nel senso di "attrezzo, apparecchio atto all'esecuzione di determinate operazioni"
+
+*** Prompt 228 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volata":
+CONCEPT: Gruppo
+RELATIONS: - "volata" è iponimo di "insieme" nel senso di "unione di piu' elementi, complesso"
+
+*** Prompt 229 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volteggiatore":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "volteggiatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 230 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "volteggiatrice":
+CONCEPT: Agente (attività durevole)
+RELATIONS: - "volteggiatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 231 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vomitatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "vomitatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 232 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "vomitatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "vomitatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 233 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zelatore":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "zelatore" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 234 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zelatrice":
+CONCEPT: Agente (attività temporanea)
+RELATIONS: - "zelatrice" è iponimo di "persona" nel senso di "essere umano in quanto tale"
+
+*** Prompt 235 ***
+Sei un esperto lessicografo.
+Genera la definizione del senso della WORD data utilizzando le seguenti informazioni, dove:
+- CONCEPT: è il concetto cui fa riferimento il senso della parola
+- RELATIONS: è un lista di relazioni con altre parole di cui è data la definizione
+
+Rispondi esclusivamente con JSON valido conforme allo schema fornito.
+Non aggiungere testo, spiegazioni o formattazione extra.
+La definizione non deve superare le 30 parole.
+Non riscrivere WORD nella definizione.
+Integra queste informazioni con la tua conoscenza interna per generare la definizione.
+La WORD è "zigrinatura":
+CONCEPT: Parte
+RELATIONS: - "zigrinatura" è iponimo di "parte" nel senso di "ogni singola unita' in cui si divide un tutto"
+
