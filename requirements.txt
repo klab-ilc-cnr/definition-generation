@@ -1,0 +1,11 @@
+langchain_community
+langchain_core
+langchain_groq
+langchain_nebius
+langchain_ollama
+langchain_openai
+langchain_together
+pydantic
+python-dotenv
+SPARQLWrapper
+tqdm
