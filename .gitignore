@@ -210,3 +210,6 @@ __marimo__/
 # Folders and files
 # source/*
 README.md~
+
+#Emacs backup files
+*~
