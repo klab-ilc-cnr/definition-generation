@@ -41,6 +41,10 @@ pip install -r requirements.txt
 ### 4. Configure environment variables
 Create a `.env` file based on the provided `env_stub` template,  
 and fill in the required API keys or tokens for external services.
+```bash
+cp env_stub .env
+vi .env
+```
 
 ### 5. Install **Ollama** (for local LLM inference)
 ```bash
@@ -67,3 +71,4 @@ You should see the three downloaded models listed.
 To reproduce the experiments, follow the commands and instructions provided in the file RUN.txt
 
 ---
+
